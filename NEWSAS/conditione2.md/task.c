@@ -15,6 +15,6 @@ int main ()
     else if (R<30000  || SC<650 || DP > 15  )
        printf("Non Eligible");
     else 
-       printf("pas de reponse ressayer autre fois");
+       printf("pas de reponse ");
     return 0; 
 }
